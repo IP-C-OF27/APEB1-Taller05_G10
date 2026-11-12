@@ -19,7 +19,8 @@ public class Ejercicio04_Descuento {
 }
 /***
  * EVIDENCIA DEL RUN:
- * Deme el precio: 1000
+ * run:
+Deme el precio: 1000
 900.0
 BUILD SUCCESSFUL (total time: 3 seconds)
 */
