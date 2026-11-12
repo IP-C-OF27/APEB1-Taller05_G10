@@ -1,7 +1,9 @@
 import java.util.Scanner;
 /**
- * Ejercicio 04: "Texto del enunciado del ejercicio/problema...."
- * @author NombreAutor
+ * Ejercicio 04: "Descuento en Compras: Calcular el precio final de un producto 
+ * con un descuento del 10% si el precio original es mayor de $100; de lo 
+ * contrario, no hay descuento."
+ * @author Santiago, Nicolás
  * @version 1.0
  */
 public class Ejercicio04_Descuento {
