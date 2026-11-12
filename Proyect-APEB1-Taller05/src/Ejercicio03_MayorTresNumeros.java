@@ -12,18 +12,21 @@ public class Ejercicio03_MayorTresNumeros {
         double numMayor = 0;
         System.out.print("Deme 3 numeros:  ");
         int n1 = tcl.nextInt(), n2 = tcl.nextInt(),n3 = tcl.nextInt(), mayor;
-        if (n1 > n2){
-        mayor = n1;}
+        if (n1 > n2)
+        mayor = n1;
         else
             mayor = n2;
-        if (mayor < n3){
+        if (mayor < n3)
             mayor = n3;
-        }
         System.out.println(mayor);       
         }
         }
 
 /***
  * EVIDENCIA DEL RUN:
- * Pegue aquí la evidencia de la ejecución del .java
+ * run:
+Deme 3 numeros:  5 4 3
+5
+BUILD SUCCESSFUL (total time: 5 seconds)
+
  */
